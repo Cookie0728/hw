@@ -2,7 +2,7 @@
 
 ## **PERT/CPM 圖**
 
-![PERT](PERT圖.jpg "PERT圖")
+![image](https://github.com/Cookie0728/hw/blob/main/PERT%E5%9C%96.jpg)
 
 ```graphviz
 digraph {
@@ -40,9 +40,9 @@ digraph {
 
 ## **甘特圖**
 
-![image](https://user-images.githubusercontent.com/94920331/194768550-27af4dc5-324a-4a06-8546-b8aef205a126.png)
+![image](https://github.com/Cookie0728/hw/blob/main/%E7%94%98%E7%89%B9%E5%9C%96.png)
 
-![image](https://user-images.githubusercontent.com/94920331/194768662-482b3a0e-484e-47f9-915c-ecc540e3b807.png)
+![image](https://github.com/Cookie0728/hw/blob/main/image.png)
 
 ```mermaid
 gantt
@@ -74,4 +74,4 @@ gantt
 
 ## **關鍵路徑**
 
-![image](https://user-images.githubusercontent.com/94920331/194769115-5872a67d-28fe-45e9-acf1-ac21824fd218.png)
+![image](https://github.com/Cookie0728/hw/blob/main/%E9%97%9C%E9%8D%B5%E8%B7%AF%E5%BE%91.png)
